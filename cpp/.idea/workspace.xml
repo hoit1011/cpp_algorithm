@@ -20,7 +20,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6b42fd0a-c1e3-43f7-b51b-87da1851a7ba" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2609_B1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/2609_B1.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,31 +46,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ 파일.10773_S4.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.11650_S5.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.1463_S3.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.1964_B2.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.1977_B2.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.kk.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.이름이 지정되지 않았습니다.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/define_psm/Documents/Development/algorithm/cpp&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ 파일.10773_S4.cpp.executor": "Run",
+    "C/C++ 파일.11650_S5.cpp.executor": "Run",
+    "C/C++ 파일.1181_S5.cpp.executor": "Run",
+    "C/C++ 파일.1463_S3.cpp.executor": "Run",
+    "C/C++ 파일.1964_B2.cpp.executor": "Run",
+    "C/C++ 파일.1977_B2.cpp.executor": "Run",
+    "C/C++ 파일.kk.cpp.executor": "Run",
+    "C/C++ 파일.이름이 지정되지 않았습니다.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/define_psm/Documents/Development/algorithm/cpp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -127,7 +127,7 @@
       <workItem from="1708146788789" duration="4000" />
       <workItem from="1708177611740" duration="4000" />
       <workItem from="1708190079096" duration="2000" />
-      <workItem from="1708698643357" duration="3168000" />
+      <workItem from="1708698643357" duration="5288000" />
     </task>
     <servers />
   </component>
