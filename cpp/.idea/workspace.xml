@@ -55,6 +55,7 @@
     "C/C++ 파일.1547_B3.cpp.executor": "Run",
     "C/C++ 파일.1964_B2.cpp.executor": "Run",
     "C/C++ 파일.1977_B2.cpp.executor": "Run",
+    "C/C++ 파일.9012_S4.cpp.executor": "Run",
     "C/C++ 파일.kk.cpp.executor": "Run",
     "C/C++ 파일.이름이 지정되지 않았습니다.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -79,9 +80,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ 파일.1547_B3.cpp">
-    <configuration name="1547_B3.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="1547_B3.cpp" CONFIG_NAME="1547_B3.cpp">
-      <option name="sourceFile" value="$PROJECT_DIR$/1547_B3.cpp" />
+  <component name="RunManager" selected="C/C++ 파일.9012_S4.cpp">
+    <configuration name="9012_S4.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="9012_S4.cpp" CONFIG_NAME="9012_S4.cpp">
+      <option name="sourceFile" value="$PROJECT_DIR$/9012_S4.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -99,7 +100,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ 파일.1547_B3.cpp" />
+      <item itemvalue="C/C++ 파일.9012_S4.cpp" />
       <item itemvalue="C/C++ 파일.kk.cpp" />
     </list>
     <recent_temporary>
@@ -131,7 +132,7 @@
       <workItem from="1708190079096" duration="2000" />
       <workItem from="1708698643357" duration="5427000" />
       <workItem from="1708915865772" duration="3244000" />
-      <workItem from="1709107799174" duration="4361000" />
+      <workItem from="1709107799174" duration="8298000" />
     </task>
     <servers />
   </component>
