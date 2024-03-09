@@ -20,7 +20,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6b42fd0a-c1e3-43f7-b51b-87da1851a7ba" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1764_S4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1764_S4.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +59,7 @@
     &quot;C/C++ 파일.1964_B2.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ 파일.1977_B2.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ 파일.9012_S4.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 파일.9325_B3.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ 파일.kk.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ 파일.이름이 지정되지 않았습니다.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -84,9 +84,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ 파일.9325_B3.cpp">
-    <configuration name="9325_B3.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="9325_B3.cpp" CONFIG_NAME="9325_B3.cpp">
-      <option name="sourceFile" value="$PROJECT_DIR$/9325_B3.cpp" />
+  <component name="RunManager" selected="C/C++ 파일.1357_B1.cpp">
+    <configuration name="1357_B1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="1357_B1.cpp" CONFIG_NAME="1357_B1.cpp">
+      <option name="sourceFile" value="$PROJECT_DIR$/1357_B1.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -104,7 +104,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ 파일.9325_B3.cpp" />
+      <item itemvalue="C/C++ 파일.1357_B1.cpp" />
       <item itemvalue="C/C++ 파일.kk.cpp" />
     </list>
     <recent_temporary>
@@ -141,7 +141,8 @@
       <workItem from="1709628685047" duration="1718000" />
       <workItem from="1709635253228" duration="4804000" />
       <workItem from="1709766606053" duration="4123000" />
-      <workItem from="1709873461925" duration="928000" />
+      <workItem from="1709873461925" duration="1998000" />
+      <workItem from="1709943785705" duration="3570000" />
     </task>
     <servers />
   </component>
