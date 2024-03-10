@@ -54,6 +54,7 @@
     &quot;C/C++ 파일.10989_B1.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ 파일.11650_S5.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ 파일.1181_S5.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 파일.1357_B1.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ 파일.1463_S3.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ 파일.1547_B3.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ 파일.1964_B2.cpp.executor&quot;: &quot;Run&quot;,
@@ -80,13 +81,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Brute-force" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Brute-force" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ 파일.1357_B1.cpp">
-    <configuration name="1357_B1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="1357_B1.cpp" CONFIG_NAME="1357_B1.cpp">
-      <option name="sourceFile" value="$PROJECT_DIR$/1357_B1.cpp" />
+  <component name="RunManager" selected="C/C++ 파일.3034_B3.cpp">
+    <configuration name="3034_B3.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="3034_B3.cpp" CONFIG_NAME="3034_B3.cpp">
+      <option name="sourceFile" value="$PROJECT_DIR$/3034_B3.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -104,7 +105,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ 파일.1357_B1.cpp" />
+      <item itemvalue="C/C++ 파일.3034_B3.cpp" />
       <item itemvalue="C/C++ 파일.kk.cpp" />
     </list>
     <recent_temporary>
@@ -142,7 +143,9 @@
       <workItem from="1709635253228" duration="4804000" />
       <workItem from="1709766606053" duration="4123000" />
       <workItem from="1709873461925" duration="1998000" />
-      <workItem from="1709943785705" duration="3570000" />
+      <workItem from="1709943785705" duration="5003000" />
+      <workItem from="1710079110885" duration="211000" />
+      <workItem from="1710079326640" duration="21000" />
     </task>
     <servers />
   </component>
