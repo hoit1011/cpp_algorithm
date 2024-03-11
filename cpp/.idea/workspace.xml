@@ -46,48 +46,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ 파일.10773_S4.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.10828_S4.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.10866_S5.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.10989_B1.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.11650_S5.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.1181_S5.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.1357_B1.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.1463_S3.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.1547_B3.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.1964_B2.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.1977_B2.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.9012_S4.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.9325_B3.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.kk.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.이름이 지정되지 않았습니다.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/define_psm/Documents/Development/algorithm/cpp&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ 파일.10773_S4.cpp.executor": "Run",
+    "C/C++ 파일.10816_S4.cpp.executor": "Run",
+    "C/C++ 파일.10828_S4.cpp.executor": "Run",
+    "C/C++ 파일.10866_S5.cpp.executor": "Run",
+    "C/C++ 파일.10989_B1.cpp.executor": "Run",
+    "C/C++ 파일.11650_S5.cpp.executor": "Run",
+    "C/C++ 파일.1181_S5.cpp.executor": "Run",
+    "C/C++ 파일.1357_B1.cpp.executor": "Run",
+    "C/C++ 파일.1463_S3.cpp.executor": "Run",
+    "C/C++ 파일.1547_B3.cpp.executor": "Run",
+    "C/C++ 파일.1964_B2.cpp.executor": "Run",
+    "C/C++ 파일.1977_B2.cpp.executor": "Run",
+    "C/C++ 파일.3034_B3.cpp.executor": "Run",
+    "C/C++ 파일.9012_S4.cpp.executor": "Run",
+    "C/C++ 파일.9325_B3.cpp.executor": "Run",
+    "C/C++ 파일.kk.cpp.executor": "Run",
+    "C/C++ 파일.이름이 지정되지 않았습니다.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/define_psm/Documents/Development/algorithm/cpp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Brute-force" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ 파일.3034_B3.cpp">
-    <configuration name="3034_B3.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="3034_B3.cpp" CONFIG_NAME="3034_B3.cpp">
-      <option name="sourceFile" value="$PROJECT_DIR$/3034_B3.cpp" />
+  <component name="RunManager" selected="C/C++ 파일.10816_S4.cpp">
+    <configuration name="10816_S4.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="10816_S4.cpp" CONFIG_NAME="10816_S4.cpp">
+      <option name="sourceFile" value="$PROJECT_DIR$/10816_S4.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -105,7 +107,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ 파일.3034_B3.cpp" />
+      <item itemvalue="C/C++ 파일.10816_S4.cpp" />
       <item itemvalue="C/C++ 파일.kk.cpp" />
     </list>
     <recent_temporary>
@@ -145,7 +147,8 @@
       <workItem from="1709873461925" duration="1998000" />
       <workItem from="1709943785705" duration="5003000" />
       <workItem from="1710079110885" duration="211000" />
-      <workItem from="1710079326640" duration="21000" />
+      <workItem from="1710079326640" duration="173000" />
+      <workItem from="1710114642849" duration="827000" />
     </task>
     <servers />
   </component>
