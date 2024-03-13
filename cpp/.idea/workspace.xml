@@ -50,44 +50,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ 파일.10773_S4.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.10816_S4.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.10828_S4.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.10866_S5.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.10989_B1.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.11650_S5.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.1181_S5.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.1357_B1.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.1463_S3.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.1547_B3.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.1964_B2.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.1977_B2.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.3034_B3.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.9012_S4.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.9325_B3.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.kk.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 파일.이름이 지정되지 않았습니다.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;&lt;알 수 없음&gt;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/bagseongmin/Documents/Development/algorithm/cpp&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ 파일.10773_S4.cpp.executor": "Run",
+    "C/C++ 파일.10816_S4.cpp.executor": "Run",
+    "C/C++ 파일.10828_S4.cpp.executor": "Run",
+    "C/C++ 파일.10866_S5.cpp.executor": "Run",
+    "C/C++ 파일.10989_B1.cpp.executor": "Run",
+    "C/C++ 파일.11650_S5.cpp.executor": "Run",
+    "C/C++ 파일.1181_S5.cpp.executor": "Run",
+    "C/C++ 파일.1357_B1.cpp.executor": "Run",
+    "C/C++ 파일.1463_S3.cpp.executor": "Run",
+    "C/C++ 파일.1547_B3.cpp.executor": "Run",
+    "C/C++ 파일.1964_B2.cpp.executor": "Run",
+    "C/C++ 파일.1977_B2.cpp.executor": "Run",
+    "C/C++ 파일.3034_B3.cpp.executor": "Run",
+    "C/C++ 파일.9012_S4.cpp.executor": "Run",
+    "C/C++ 파일.9325_B3.cpp.executor": "Run",
+    "C/C++ 파일.kk.cpp.executor": "Run",
+    "C/C++ 파일.이름이 지정되지 않았습니다.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "<unknown>",
+    "last_opened_file_path": "/Users/bagseongmin/Documents/Development/algorithm/cpp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -157,6 +157,7 @@
       <workItem from="1710317838200" duration="96000" />
       <workItem from="1710317939360" duration="10000" />
       <workItem from="1710317959706" duration="613000" />
+      <workItem from="1710318578460" duration="864000" />
     </task>
     <servers />
   </component>
