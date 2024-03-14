@@ -1,6 +1,0 @@
-/Users/bagseongmin/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/bagseongmin/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/bagseongmin/Documents/Development/algorithm/자료구조 -B /Users/bagseongmin/Documents/Development/algorithm/자료구조/cmake-build-debug
-CMake Error at CMakeLists.txt:2 (project):
-  project PROJECT called with incorrect number of arguments
-
-
--- Configuring incomplete, errors occurred!
