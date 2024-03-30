@@ -20,7 +20,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6b42fd0a-c1e3-43f7-b51b-87da1851a7ba" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15654_S3" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +61,7 @@
     "C/C++ File.1065_S5.cpp.executor": "Run",
     "C/C++ File.10814_S5.cpp.executor": "Run",
     "C/C++ File.10816_S4.cpp.executor": "Run",
+    "C/C++ File.10825_S4.cpp.executor": "Run",
     "C/C++ File.11651_S5.cpp.executor": "Run",
     "C/C++ File.1233_B2.cpp.executor": "Run",
     "C/C++ File.1436_S5.cpp.executor": "Run",
@@ -122,9 +122,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.10814_S5.cpp">
-    <configuration name="10814_S5.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="10814_S5.cpp" CONFIG_NAME="10814_S5.cpp">
-      <option name="sourceFile" value="$PROJECT_DIR$/10814_S5.cpp" />
+  <component name="RunManager" selected="C/C++ File.10825_S4.cpp">
+    <configuration name="10825_S4.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="10825_S4.cpp" CONFIG_NAME="10825_S4.cpp">
+      <option name="sourceFile" value="$PROJECT_DIR$/10825_S4.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -148,7 +148,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.10814_S5.cpp" />
+      <item itemvalue="C/C++ File.10825_S4.cpp" />
       <item itemvalue="C/C++ File.4673_S5.cpp (1)" />
       <item itemvalue="C/C++ File.kk.cpp" />
     </list>
@@ -237,7 +237,7 @@
       <workItem from="1711504463774" duration="1513000" />
       <workItem from="1711515165817" duration="3000" />
       <workItem from="1711523240652" duration="552000" />
-      <workItem from="1711679022519" duration="5081000" />
+      <workItem from="1711679022519" duration="7872000" />
     </task>
     <servers />
   </component>
