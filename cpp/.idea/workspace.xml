@@ -55,80 +55,81 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ File.1018_S4.cpp.executor": "Run",
-    "C/C++ File.1065_S5.cpp.executor": "Run",
-    "C/C++ File.10814_S5.cpp.executor": "Run",
-    "C/C++ File.10816_S4.cpp.executor": "Run",
-    "C/C++ File.10825_S4.cpp.executor": "Run",
-    "C/C++ File.10866_S4.cpp.executor": "Run",
-    "C/C++ File.1158_S4.cpp.executor": "Run",
-    "C/C++ File.11651_S5.cpp.executor": "Run",
-    "C/C++ File.1233_B2.cpp.executor": "Run",
-    "C/C++ File.1436_S5.cpp.executor": "Run",
-    "C/C++ File.15649_S3.cpp.executor": "Run",
-    "C/C++ File.15650_S3.cpp.executor": "Run",
-    "C/C++ File.15651_S3.cpp.executor": "Debug",
-    "C/C++ File.15652_S3.cpp.executor": "Run",
-    "C/C++ File.15654_S3.cpp.executor": "Run",
-    "C/C++ File.15655.S3.cpp.executor": "Run",
-    "C/C++ File.15655_S3.cpp.executor": "Run",
-    "C/C++ File.1654_S2.cpp.executor": "Run",
-    "C/C++ File.2108_S3.cpp.executor": "Run",
-    "C/C++ File.2309_B1.cpp.executor": "Run",
-    "C/C++ File.2947_B1.cpp.executor": "Run",
-    "C/C++ File.4673_S5.cpp (1).executor": "Run",
-    "C/C++ File.4673_S5.cpp.executor": "Run",
-    "C/C++ File.4949_S4.cpp.executor": "Run",
-    "C/C++ File.asdf.cpp.executor": "Run",
-    "C/C++ File.곱셈.cpp.executor": "Run",
-    "C/C++ File.알고리즘반.cpp.executor": "Run",
-    "C/C++ 파일.10773_S4.cpp.executor": "Run",
-    "C/C++ 파일.10816_S4.cpp.executor": "Run",
-    "C/C++ 파일.10828_S4.cpp.executor": "Run",
-    "C/C++ 파일.10866_S5.cpp.executor": "Run",
-    "C/C++ 파일.10989_B1.cpp.executor": "Run",
-    "C/C++ 파일.11650_S5.cpp.executor": "Run",
-    "C/C++ 파일.1181_S5.cpp.executor": "Run",
-    "C/C++ 파일.1357_B1.cpp.executor": "Run",
-    "C/C++ 파일.1463_S3.cpp.executor": "Run",
-    "C/C++ 파일.1547_B3.cpp.executor": "Run",
-    "C/C++ 파일.1964_B2.cpp.executor": "Run",
-    "C/C++ 파일.1977_B2.cpp.executor": "Run",
-    "C/C++ 파일.3034_B3.cpp.executor": "Run",
-    "C/C++ 파일.9012_S4.cpp.executor": "Run",
-    "C/C++ 파일.9325_B3.cpp.executor": "Run",
-    "C/C++ 파일.kk.cpp.executor": "Run",
-    "C/C++ 파일.이름이 지정되지 않았습니다.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/bagseongmin/Documents/Development/algorithm/cpp",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.stylelint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.stylelint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.1018_S4.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.1065_S5.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.10814_S5.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.10816_S4.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.10825_S4.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.10866_S4.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.1158_S4.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.11651_S5.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.1233_B2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.1436_S5.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.15649_S3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.15650_S3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.15651_S3.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.15652_S3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.15654_S3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.15655.S3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.15655_S3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.1654_S2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.18111_S2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.2108_S3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.2309_B1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.2947_B1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.4673_S5.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.4673_S5.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.4949_S4.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.asdf.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.곱셈.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.알고리즘반.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 파일.10773_S4.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 파일.10816_S4.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 파일.10828_S4.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 파일.10866_S5.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 파일.10989_B1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 파일.11650_S5.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 파일.1181_S5.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 파일.1357_B1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 파일.1463_S3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 파일.1547_B3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 파일.1964_B2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 파일.1977_B2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 파일.3034_B3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 파일.9012_S4.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 파일.9325_B3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 파일.kk.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 파일.이름이 지정되지 않았습니다.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bagseongmin/Documents/Development/algorithm/cpp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Brute-force" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.1158_S4.cpp">
-    <configuration name="1158_S4.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="1158_S4.cpp" CONFIG_NAME="1158_S4.cpp">
-      <option name="sourceFile" value="$PROJECT_DIR$/1158_S4.cpp" />
+  <component name="RunManager" selected="C/C++ File.18111_S2.cpp">
+    <configuration name="18111_S2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="18111_S2.cpp" CONFIG_NAME="18111_S2.cpp">
+      <option name="sourceFile" value="$PROJECT_DIR$/Brute-force/18111_S2.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -152,7 +153,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.1158_S4.cpp" />
+      <item itemvalue="C/C++ File.18111_S2.cpp" />
       <item itemvalue="C/C++ File.4673_S5.cpp (1)" />
       <item itemvalue="C/C++ File.kk.cpp" />
     </list>
@@ -243,7 +244,9 @@
       <workItem from="1711523240652" duration="552000" />
       <workItem from="1711679022519" duration="12572000" />
       <workItem from="1712066938326" duration="168000" />
-      <workItem from="1712103337629" duration="8643000" />
+      <workItem from="1712103337629" duration="12456000" />
+      <workItem from="1712293311637" duration="1199000" />
+      <workItem from="1712497815123" duration="832000" />
     </task>
     <servers />
   </component>
