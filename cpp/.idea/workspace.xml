@@ -134,9 +134,9 @@
       <recent name="$PROJECT_DIR$/Brute-force" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ 파일.1373_B1.cpp">
-    <configuration name="1373_B1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="1373_B1.cpp" CONFIG_NAME="1373_B1.cpp">
-      <option name="sourceFile" value="$PROJECT_DIR$/1373_B1.cpp" />
+  <component name="RunManager" selected="C/C++ 파일.1977_B2.cpp">
+    <configuration name="1977_B2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="1977_B2.cpp" CONFIG_NAME="1977_B2.cpp">
+      <option name="sourceFile" value="$PROJECT_DIR$/1977_B2.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -160,7 +160,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ 파일.1373_B1.cpp" />
+      <item itemvalue="C/C++ 파일.1977_B2.cpp" />
       <item itemvalue="C/C++ 파일.4673_S5.cpp (1)" />
       <item itemvalue="C/C++ 파일.kk.cpp" />
     </list>
@@ -266,7 +266,8 @@
       <workItem from="1714386917910" duration="598000" />
       <workItem from="1714560107723" duration="11680000" />
       <workItem from="1715129780317" duration="1490000" />
-      <workItem from="1715152712087" duration="1314000" />
+      <workItem from="1715152712087" duration="2036000" />
+      <workItem from="1715664296505" duration="3559000" />
     </task>
     <servers />
   </component>
