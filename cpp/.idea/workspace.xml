@@ -18,7 +18,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b42fd0a-c1e3-43f7-b51b-87da1851a7ba" name="변경" comment="" />
+    <list default="true" id="6b42fd0a-c1e3-43f7-b51b-87da1851a7ba" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30030_B5" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,6 +109,7 @@
     "C/C++ 파일.2108_S3.cpp.executor": "Run",
     "C/C++ 파일.23303_B3.cpp.executor": "Run",
     "C/C++ 파일.2935_B3.cpp.executor": "Run",
+    "C/C++ 파일.30030_B5.cpp.executor": "Run",
     "C/C++ 파일.3034_B3.cpp.executor": "Run",
     "C/C++ 파일.9012_S4.cpp.executor": "Run",
     "C/C++ 파일.9325_B3.cpp.executor": "Run",
@@ -137,9 +141,9 @@
       <recent name="$PROJECT_DIR$/Brute-force" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ 파일.30030_B5.cpp">
-    <configuration name="30030_B5.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="30030_B5.cpp" CONFIG_NAME="30030_B5.cpp">
-      <option name="sourceFile" value="$PROJECT_DIR$/30030_B5.cpp" />
+  <component name="RunManager" selected="C/C++ 파일.23806_B3.cpp">
+    <configuration name="23806_B3.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="23806_B3.cpp" CONFIG_NAME="23806_B3.cpp">
+      <option name="sourceFile" value="$PROJECT_DIR$/23806_B3.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -163,7 +167,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ 파일.30030_B5.cpp" />
+      <item itemvalue="C/C++ 파일.23806_B3.cpp" />
       <item itemvalue="C/C++ 파일.4673_S5.cpp (1)" />
       <item itemvalue="C/C++ 파일.kk.cpp" />
     </list>
@@ -280,7 +284,7 @@
       <workItem from="1718923312590" duration="873000" />
       <workItem from="1719299995372" duration="189000" />
       <workItem from="1719335339004" duration="4000" />
-      <workItem from="1719365515645" duration="294000" />
+      <workItem from="1719365515645" duration="801000" />
     </task>
     <servers />
   </component>
